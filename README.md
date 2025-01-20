@@ -1,6 +1,7 @@
 # SpheroidPicker
 SpheroidPicker is a comprehensive repository designed to reproduce the SpheroidPicker system, providing tools and resources for both hardware handling and image analysis.
 
+<<<<<<< HEAD
 ## Repository Structure
 AutomaticSpheroidPickerSoftware
 Contains C++ software for interfacing with and managing the specific hardware components used in the SpheroidPicker system.
