@@ -1,3 +1,6 @@
 [submodule "AutomaticSpheroidPickerSoftware"]
 	path = AutomaticSpheroidPickerSoftware
 	url = git@github.com:grexai/AutomaticSpheroidPickerSoftware.git
+[submodule "SpheroidPicker-Image-analysis"]
+	path = SpheroidPicker-Image-analysis
+	url = https://github.com/grexai/SpheroidPicker-Image-analysis
