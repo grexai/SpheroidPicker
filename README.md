@@ -26,6 +26,9 @@ The system includes a stereo microscope, syringe, stage, and manipulator control
 
 If you use this repository, please cite the following publication:  
 
+
+
+
 ```bibtex
 @article{grexa2021spheroidpicker,  
   title={SpheroidPicker for automated 3D cell culture manipulation using deep learning},  
@@ -36,4 +39,10 @@ If you use this repository, please cite the following publication:
   year={2021},  
   publisher={Nature Publishing Group},  
   doi={10.1038/s41598-021-94217-1}  
+}
+
+
+@phdthesis{grexa2024development,
+  title={Development of intelligent microscopy systems},
+  author={Grexa, Istv{\'a}n}
 }
